@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bijigram</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="bijigram">Bijigram</string>
+    <string name="welcome_to">Welcome To</string>
+</resources>

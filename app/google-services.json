@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401578842179",
+    "firebase_url": "https://bijigram.firebaseio.com",
+    "project_id": "bijigram",
+    "storage_bucket": "bijigram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401578842179:android:b0ad2ad851d7d1d1",
+        "android_client_info": {
+          "package_name": "com.bangkumist.bintang.bijigram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401578842179-iqjc1m2t1md7n41627ph562ru3acoaks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkumist.bintang.bijigram",
+            "certificate_hash": "1eb4811a207e56ee585fcbff2c9b5ffed1d4f6e8"
+          }
+        },
+        {
+          "client_id": "401578842179-q12fs7ro159ovnu3l6ln4hgcot3ssalk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2HfeSrNyx9K14aiODuiRIiBs1njpRJpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401578842179-q12fs7ro159ovnu3l6ln4hgcot3ssalk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
